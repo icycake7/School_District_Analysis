@@ -60,7 +60,7 @@ Software: Python 3.7, Anaconda 4.14.0, Jupyter Notebook 6.4.12
 The analysis reveals that, taking out Thomas High School's 9th grade math and reading scores, barely affected the dataset. However, there were four changes that should be noted:
 - The average math and reading scores for Thomas High School slightly decreased.
 - Schools that are in the $631-645 spending range had their overall scores reduced.
-- Schools in the medium school size range (1000-1999) saw their overall scores drop slightly
+- Schools in the medium school size range (1000-1999) saw their overall scores drop slightly.
 - And lastly, overall Charter School scores slightly decreased.
 
 The change in data may barely be visible, however, it did slightly decrease the scores of categories in which Thomas High School was present. This is important to note, since any further alteration of scores in the dataset could lead to more drastic overall changes. The School Board should be notified, so that informed choice can be made.
