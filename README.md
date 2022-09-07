@@ -15,7 +15,7 @@ Software: Python 3.7, Anaconda 4.14.0, Jupyter Notebook 6.4.12
 ![district_summary_after](district_summary_after.png)
 
 - As can be seen in the two images above the overall student count and budget have not been affected.
- However, there was a slight decrease in the average math score and a slight decrease in the percentage of students passing math. As for reading, the average score stayed the same while the percentage of students passing reading slightly decreased. The overall passing percentage decreased by roughly 0.1%/
+ However, there was a slight decrease in the average math score and a slight decrease in the percentage of students passing math. As for reading, the average score stayed the same while the percentage of students passing reading slightly decreased. The overall passing percentage decreased by roughly 0.1%.
 
 ### 2. How is the school summary affected?
 ![school_summary_before](school_summary_before.png)
